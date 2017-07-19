@@ -1,0 +1,225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NotePressES\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-30 01:54-0600\n"
+"PO-Revision-Date: 2017-06-30 01:54-0600\n"
+"Last-Translator: DataInterlock <postmaster@datainterlock.com>\n"
+"Language-Team: DataInterlock <postmaster@datainterlock.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/Note_Press-admin-menu.php:36 admin/class-Note_Press-admin.php:168
+msgid "Note Press"
+msgstr "Note Press"
+
+#: admin/Note_Press-admin-menu.php:37
+msgid "For more information and instructions please visit our website at: "
+msgstr ""
+"Para obtener más información e instrucciones por favor visite nuestro sitio "
+"web en :"
+
+#: admin/Note_Press-admin-menu.php:50
+msgid "note"
+msgstr "nota"
+
+#: admin/Note_Press-admin-menu.php:51
+msgid "notes"
+msgstr "notas"
+
+#: admin/Note_Press-admin-menu.php:73
+msgid "View"
+msgstr "Ver"
+
+#: admin/Note_Press-admin-menu.php:74
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/Note_Press-admin-menu.php:75
+msgid "Are you sure you want to delete this note?"
+msgstr "¿Seguro que quieres eliminar esta nota?"
+
+#: admin/Note_Press-admin-menu.php:75 admin/Note_Press-admin-menu.php:82
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/Note_Press-admin-menu.php:94
+msgid "Icon"
+msgstr "Icono"
+
+#: admin/Note_Press-admin-menu.php:95 admin/class-Note_Press-admin.php:112
+msgid "Title"
+msgstr "Título"
+
+#: admin/Note_Press-admin-menu.php:96
+msgid "By"
+msgstr "Autor"
+
+#: admin/Note_Press-admin-menu.php:97
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/Note_Press-admin-menu.php:98 admin/class-Note_Press-admin.php:112
+msgid "Priority"
+msgstr "Prioridad"
+
+#: admin/Note_Press-admin-menu.php:99 admin/class-Note_Press-admin.php:112
+msgid "Deadline"
+msgstr "Fecha tope"
+
+#: admin/Note_Press-admin-menu.php:271
+msgid "Notes"
+msgstr "Notas"
+
+#: admin/Note_Press-admin-menu.php:273
+msgid "Search"
+msgstr "Buscar"
+
+#: admin/Note_Press-admin-menu.php:296
+msgid "Add A Note"
+msgstr "Poner una Nota"
+
+#: admin/Note_Press-admin-menu.php:322 admin/Note_Press-admin-menu.php:391
+#: admin/Note_Press-admin-menu.php:615
+msgid "That note was not found."
+msgstr "No se ha encontrado esa nota."
+
+#: admin/Note_Press-admin-menu.php:344
+msgid "Edit This Note"
+msgstr "Editar Esta Nota"
+
+#: admin/Note_Press-admin-menu.php:346 admin/Note_Press-admin-menu.php:398
+msgid "Back to List"
+msgstr "Volver a la lista"
+
+#: admin/Note_Press-admin-menu.php:350 admin/Note_Press-admin-menu.php:408
+msgid "Title:"
+msgstr "Título:"
+
+#: admin/Note_Press-admin-menu.php:351
+msgid "Date Added/Last Edited:"
+msgstr "Fecha Alta / Última modificación:"
+
+#: admin/Note_Press-admin-menu.php:352
+msgid "Added By:"
+msgstr "Autor:"
+
+#: admin/Note_Press-admin-menu.php:365 admin/Note_Press-admin-menu.php:459
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: admin/Note_Press-admin-menu.php:375 admin/Note_Press-admin-menu.php:434
+msgid "Deadline:"
+msgstr "Fecha tope:"
+
+#: admin/Note_Press-admin-menu.php:377 admin/Note_Press-admin-menu.php:554
+msgid "Contents:"
+msgstr "Contenidos:"
+
+#: admin/Note_Press-admin-menu.php:417
+msgid "Enter a title for this note."
+msgstr "Introduzca un título para esta nota."
+
+#: admin/Note_Press-admin-menu.php:437
+msgid ""
+"Enter a deadline for this note or leave this field blank for no deadline.</"
+"br> <strong>Not all browswers support a date picker</strong>. If you do not "
+"have the option to select a date, please enter one in the format MM/DD/YYYY."
+msgstr ""
+"Ingrese un plazo para esta nota o deje este campo en blanco para que no haya "
+"fecha límite. </ br> <strong> No todos los browswers admiten un selector de "
+"fechas </ strong>. Si no tiene la opción de seleccionar una fecha, "
+"introduzca una en el formato MM/DD/AAAA."
+
+#: admin/Note_Press-admin-menu.php:463
+msgid "Low"
+msgstr "Bajo"
+
+#: admin/Note_Press-admin-menu.php:464
+msgid "Medium"
+msgstr "Medio"
+
+#: admin/Note_Press-admin-menu.php:465
+msgid "High"
+msgstr "Alto"
+
+#: admin/Note_Press-admin-menu.php:467
+msgid "Select a priority for this note."
+msgstr "Seleccione una prioridad para esta nota."
+
+#: admin/Note_Press-admin-menu.php:471
+msgid "Icon:"
+msgstr "Icono:"
+
+#: admin/Note_Press-admin-menu.php:523
+msgid "Select an icon for this note."
+msgstr "Seleccione un icono para esta nota."
+
+#: admin/Note_Press-admin-menu.php:550
+msgid "Author/Editor: "
+msgstr "Autor / Editor :"
+
+#: admin/Note_Press-admin-menu.php:573
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/Note_Press-admin-menu.php:580
+msgid "Update Note"
+msgstr "Actualización Nota"
+
+#: admin/Note_Press-admin-menu.php:584
+msgid "Add Note"
+msgstr "Añadir La Nota"
+
+#: admin/Note_Press-admin-menu.php:607 admin/Note_Press-admin-menu.php:648
+msgid "A note must have a title."
+msgstr "Una nota tiene que tener un título."
+
+#: admin/Note_Press-admin-menu.php:696
+msgid "That note was not found"
+msgstr "Esa nota no se ha encontrado"
+
+#: admin/Note_Press-admin-menu.php:703 admin/Note_Press-admin-menu.php:754
+msgid "Note Deleted!"
+msgstr "Nota eliminados !"
+
+#: admin/Note_Press-admin-menu.php:758
+msgid " Notes Deleted!"
+msgstr " Nota eliminados !"
+
+#: admin/Note_Press-admin-menu.php:767
+msgid "No notes selected."
+msgstr "No hay notas seleccionadas ."
+
+#: admin/class-Note_Press-admin.php:107
+msgid "No notes to you."
+msgstr "No hay notas para usted."
+
+#: admin/class-Note_Press-admin.php:159
+msgid "Note Press - Notes to you"
+msgstr "Note Press - Notas para usted"
+
+#~ msgid " Note Deleted!"
+#~ msgstr " Nota eliminados !"
+
+#, fuzzy
+#~ msgid "Enter a deadline for this note."
+#~ msgstr "Introduzca un título para esta nota."
+
+#~ msgid "Note Press Settings"
+#~ msgstr "Note Press Ajustes"
+
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
